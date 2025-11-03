@@ -258,6 +258,16 @@ Enter your choice: 7
 -THE EXAMPLES ABOVE SHOW THE PROGRAM OUPUTS AND INPUTS AND HOW IT WORKS, IT DEMONSTRATES HOW EXCEPTIONS AND VALIDATIONS WORK AND SHOWS VALIDITY ERRORS, CALCULATIONS AND ALSO THE SUBJECT ANALYSIS INCLUDING THE USE OF THE SCHOOL MENU INTERFACE.
 
 
+HOW TO RUN THE PROGRAM
+-install python
+-open your preferred terminal(in this case Pycharm)
+-Go to the folder containing the project file: Maruza_Entle_SectionE
+-Run the program
+-School main menu appears 
+-Interact with program by inputing choices
+-Follow menu until you exit the program
+-Choose option 7 to exit 
+
 
 Grading System Assumptions and Limitations
 
@@ -282,6 +292,8 @@ Subjects are fixed and cannot be modified during runtime
 No multi user access
 
 Basic-Error Handling
+
+
 
 
   
