@@ -1,6 +1,7 @@
 -GRADEBOOK GRADING SYSTEM-
 
 PROJECT OVERVIEW
+
 To develop a comprehensive, user-friendly Python based grading system that  digitizes the current grading system.The system manages student records, allows handling of multiple subjects, and support operations like adding, updating, searching, sorting, and reporting student grades. Each section introduces new programming ways from basic input and output concepts to a more object-oriented and exception handling design.
 
 SECTION DESCRIPTIONS
